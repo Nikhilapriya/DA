@@ -8,7 +8,7 @@ The following steps have been taken to process the data and feed it to various c
     2) completing missing information
     3) creating new features for analysis
     4) converting fields to the correct format for calculations and presentation
-    
+   
 Data Cleaning and substitutions for null values
 Encoding categorical variables using the sklearn library
 Creating new, meaningful features that capture the relevant information better.
